@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=unlock.ico --add-data "RSA_private.pem;." decryptor.py
