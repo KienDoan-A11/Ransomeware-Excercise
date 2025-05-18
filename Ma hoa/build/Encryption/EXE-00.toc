@@ -1,0 +1,158 @@
+('D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+ 'hoa\\dist\\Encryption.exe',
+ True,
+ False,
+ False,
+ ['D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+  'hoa\\hacked.ico'],
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+ 'hoa\\build\\Encryption\\Encryption.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+   'hoa\\build\\Encryption\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+   'hoa\\build\\Encryption\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+   'hoa\\build\\Encryption\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+   'hoa\\build\\Encryption\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+   'hoa\\build\\Encryption\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+   'hoa\\build\\Encryption\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_cryptography_openssl',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_cryptography_openssl.py',
+   'PYSOURCE'),
+  ('Encryption',
+   'D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+   'hoa\\Encryption.py',
+   'PYSOURCE'),
+  ('python313.dll',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp313-win_amd64.pyd',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_cffi_backend.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('cryptography\\hazmat\\bindings\\_rust.pyd',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\python3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('RSA_public.pem',
+   'D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+   'hoa\\RSA_public.pem',
+   'DATA'),
+  ('cryptography-45.0.1.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography-45.0.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('cryptography-45.0.1.dist-info\\WHEEL',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography-45.0.1.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-45.0.1.dist-info\\METADATA',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography-45.0.1.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-45.0.1.dist-info\\REQUESTED',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography-45.0.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('cryptography-45.0.1.dist-info\\licenses\\LICENSE.BSD',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography-45.0.1.dist-info\\licenses\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-45.0.1.dist-info\\licenses\\LICENSE.APACHE',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography-45.0.1.dist-info\\licenses\\LICENSE.APACHE',
+   'DATA'),
+  ('cryptography-45.0.1.dist-info\\RECORD',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography-45.0.1.dist-info\\RECORD',
+   'DATA'),
+  ('cryptography-45.0.1.dist-info\\INSTALLER',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cryptography-45.0.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('base_library.zip',
+   'D:\\2024.2\\An toàn HTTT\\Báo cáo nhóm\\Ransomware sim (phiên bản 2)\\Ma '
+   'hoa\\build\\Encryption\\base_library.zip',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1747566079,
+ [('run.exe',
+   'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+   'EXECUTABLE')],
+ 'C:\\Users\\stuvn\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll')

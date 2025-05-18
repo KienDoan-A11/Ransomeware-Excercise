@@ -1,1 +1,1 @@
-pyinstaller --onefile --icon=hacked.ico --add-data "RSA_public.pem;." Ransomware_main.py 
+pyinstaller --onefile --icon=hacked.ico --add-data "RSA_public.pem;." Encryption.py 
