@@ -52,7 +52,7 @@ def decrypt_file(filepath, private_key):
 
 # Duyệt file
 def get_locked_files(folder):
-    return [str(p) for p in Path(folder).rglob("*.locked")]
+    return [str(p) for p in Path(folder).rglob("*") if str(p).endswith(".locked")]
 
 # MAIN
 if __name__ == "__main__":
